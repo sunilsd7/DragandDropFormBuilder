@@ -1,8 +1,27 @@
-# React + Vite
+# DragandDropFormBuilder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Drag and Drop Form Builder is a web application that allows users to create forms easily using a drag-and-drop interface. Users can add, remove, and customize form fields dynamically.
 
-Currently, two official plugins are available:
+## Features
+- Drag and drop to add form elements
+- Customize input fields (text, checkbox, radio, dropdown, etc.)
+- Real-time preview of the form
+- Save and load form templates
+- Responsive design for all screen sizes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To set up the project locally, follow these steps:
+
+```sh
+# Clone the repository
+git clone https://github.com/sunilsd7/DragandDropFormBuilder.git
+
+# Navigate to the project directory
+cd DragandDropFormBuilder
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
